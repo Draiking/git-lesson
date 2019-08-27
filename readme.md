@@ -25,3 +25,8 @@
 ## Запушить
 
     git push -u origin master
+
+##  Заклонировать репозиторий
+
+    git clone https://github.com/Gordondalos/git-lesson
+    
