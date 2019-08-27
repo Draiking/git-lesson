@@ -10,3 +10,6 @@
 
     git commit -m"Сообщения"
  
+## Перейти на ветку мастер
+
+    git checkout master
